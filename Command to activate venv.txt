@@ -1,0 +1,7 @@
+--> python -m venv .
+--> cd Scripts
+--> activate
+--> cd ..
+--> jupyter notebook
+
+
